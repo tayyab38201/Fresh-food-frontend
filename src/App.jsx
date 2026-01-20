@@ -333,7 +333,7 @@ const App= ()=>{
         {
             ContactIcon:"bi bi-geo-alt-fill",
             ContactAddressTitle:"Address",
-            ContactAddress:"4648 Rocky Road Philadelphia"
+            ContactAddress:"New City Phase 2 Wah Cantt Rawalpindi"
         },
         {
             ContactIcon:"bi bi-envelope",
@@ -343,7 +343,7 @@ const App= ()=>{
         {
             ContactIcon:"bi bi-telephone-fill",
             ContactAddressTitle:"Call Emergency",
-            ContactAddress:"+88 0123 654 99"
+            ContactAddress:"+92 0123 654 99"
         }
     ]
 
